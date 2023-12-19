@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LibroElectronico</string>
+    <string name="app_textView_MIBIBLIO">MI BIBLIOTECA</string>
+    <string name="titulo_libro">Hábitos Atómicos</string>
+    <string name="app_button1ELIMDESC">ELIMINAR LIBRO</string>
+    <string name="app_button2VER">LEER</string>
+    <string name="app_button_Ind">CAPÍTULOS</string>
+    <string name="app_button5_TitCap">Título del Capítulo</string>
+    <string name="app_button6_P1">Pág.1- El sorprendente poder de los hábitos</string>
+    <string name="app_button7_P2">Pág.2- La manera en que tus hábitos moldean tu identidad</string>
+    <string name="app_button8_P3">Pág.3- El hombre que no se veía bien</string>
+    <string name="app_button9_P4">Pág.4- La mejor manera de comenzar un nuevo hábito</string>
+    <string name="app_fragmCap1"><b>1\t\t\tEL SORPRENDENTE PODER DE LOS HÁBITOS</b>\n\n\n\t\t\tEl destino de la organización British Cycling [Ciclismo Británico] cambió un día del año 2003. Esta organización, que había regulado el ciclismo profesional en Gran Bretaña, contrató ese año a Dave Brailsford como su nuevo director de desempeño. Por entonces, los ciclistas profesionales de Gran Bretaña padecían casi cien años de mediocridad.</string>
+    <string name="app_fragmCap2"><b>2\t\t\tLA MANERA EN QUE TUS HÁBITOS MOLDEAN TU IDENTIDAD</b>\n\n\n\t\t\t¿Por qué es tan fácil repetir los malos hábitos y tan difícil desarrollar buenos hábitos? Pocas cosas pueden tener un impacto más poderoso en tu vida que mejorar tus hábitos rutinarios. A pesar de esto, es muy probable que el año entrante, por estas fechas, te encuentres repitiendo las mismas rutinas en lugar de estar haciendo algo mejor.\n\n
+A veces tenemos la impresión de que es demasiado complicado mantener un buen hábito por más de unos días. Ello a pesar de nuestro más sincero esfuerzo y de los ocasionales estallidos de motivación. Los buenos hábitos como hacer ejercicio, meditar, diseñar un diario y cocinar parecen funcionar por un día o dos, pero después se vuelven una molestia.</string>
+    <string name="app_fragmCap3"><b>3\t\t\tEL HOMBRE QUE NO SE VEÍA BIEN</b>\n\n\n\t\t\tEl psicólogo Gary Klein una vez me contó una historia acerca de una mujer que había asistido a una reunión familiar.1 Había pasado años trabajando como paramédica y, tan pronto como llegó a la fiesta, le dio un vistazo a su suegro y se quedó muy preocupada.\n\n
+—No me gusta cómo te ves —le dijo la mujer a su suegro. .\n\n
+Su suegro, que no tenía ningún malestar y se sentía perfectamente bien, respondió .\n\n bromeando:
+—A mí tampoco me gusta cómo te ves. .\n\n
+—No —insistió la mujer—. Tienes que ir al hospital inmediatamente. .</string>
+    <string name="app_fragmCap4"><b>4\t\t\tLA MEJOR MANERA DE COMENZAR UN NUEVO HÁBITO</b>\n\n\n\t\t\tEn 2001, un grupo de investigadores de la Gran Bretaña empezó a trabajar con 248 personas para desarrollar mejores hábitos para hacer ejercicio en el curso de dos semanas.1 Los sujetos participantes fueron divididos en tres grupos.\n\n
+El primer grupo era el de control. A las personas en este grupo simplemente les pidieron que llevaran un registro de qué tan seguido hacían ejercicio durante el período de prueba. \n\n
+El segundo grupo era el «motivado». A estas personas se les pidió no solamente que llevaran un registro de sus entrenamientos, sino que también leyeran libros relacionados con los beneficios del ejercicio físico.</string>
+
+</resources>
